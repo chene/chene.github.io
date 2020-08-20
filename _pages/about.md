@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+<address>
 Scientist <br/>
 Robarts Research Institute<br/>
 Biomedical Engineering/Medical Biophysics<br/>
 Western University<br/>
 London, Ontario, Canada<br/>
+</address>
+<br/>
 
 Elvis C.S. Chen received his PhD from School of Computing, Queen's University, Canada (2007) with a focus on joint kinematics modelling. After two years of post-doctoral fellowship, he jointed Robarts Research Institute in 2009 where he is now a Scientist. He holds cross-affiliation with Biomedical Engineering and the Department of Medical Biophysics, Western University (Canada).
 
