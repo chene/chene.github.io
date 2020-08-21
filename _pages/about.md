@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Elvis C.S. Chen <br/> AI-Assisted Intervention Lab"
+title: "Elvis C.S. Chen, PhD, LL <br/> AI-Assisted Intervention Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

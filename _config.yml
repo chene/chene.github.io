@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Elvis C.S. Chen @ (AI)^2 Lab"
 title_separator          : "-"
-name                     : &name "Elvis Chen"
+name                     : &name "Elvis C.S. Chen"
 description              : &description "personal description"
 url                      : https://chene.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
   google:
     tracking_id          :
 
-
+      
 # Site Author
 author:
   name             : "Elvis C. S. Chen"
