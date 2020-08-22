@@ -2,7 +2,7 @@
 title: "A global optimization method for specular highlight removal from a single image"
 collection: publications
 permalink: /publication/2019-09-03-IEEE-Access_XCP+2019
-excerpt: 'In this paper, we proposed a global optimization method for specular highlight removal from a single image based on a dichromatic reflection model.'
+excerpt: 'In this journal paper, we proposed a global optimization method for specular highlight removal from a single image based on a dichromatic reflection model.'
 date: 2019-09-03
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8822996'

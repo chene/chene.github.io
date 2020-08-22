@@ -2,7 +2,7 @@
 title: "First Prize: A phantom model as a teaching modality for laparoscopic partial nephrectomy"
 collection: publications
 permalink: /publication/2012-01-04-Endourology_FCM+2012
-excerpt: 'In this paper, we evaluated a materials model for laparoscopic ultrasound identification and partial nephrectomy of kidney tumors. This work was awarded the First Price in the 2011 Endourological Society Essay Competition.'
+excerpt: 'In this journal paper, we evaluated a materials model for laparoscopic ultrasound identification and partial nephrectomy of kidney tumors. This work was awarded the First Price in the 2011 Endourological Society Essay Competition.'
 date: 2012-01-04
 venue: 'Journal of Endourology'
 paperurl: 'http://doi.org/10.1089/end.2011.0131'

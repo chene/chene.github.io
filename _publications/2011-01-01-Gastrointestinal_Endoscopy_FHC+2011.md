@@ -2,7 +2,7 @@
 title: "A prospective, randomized assessment of a spatial orientation device in natural orifice transluminal endoscopic surgery"
 collection: publications
 permalink: /publication/2011-01-01-Gastrointestinal_Endoscopy_FHC+2011
-excerpt: 'In this paper, I integrated a magnetic tracking device into an endoscope so its shape can be determined in realtime. I showed that by visualizing the orientation and shape of the endoscopy, the insertion of the endoscope is greatly facilitated.'
+excerpt: 'In this journal paper, I integrated a magnetic tracking device into an endoscope so its shape can be determined in realtime. I showed that by visualizing the orientation and shape of the endoscopy, the insertion of the endoscope is greatly facilitated.'
 date: 2011-01-01
 venue: 'Gastrointestinal Endoscopy'
 paperurl: 'https://doi.org/10.1016/j.gie.2010.09.013'

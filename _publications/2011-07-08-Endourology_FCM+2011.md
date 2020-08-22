@@ -2,7 +2,7 @@
 title: "Preliminary assessment of a renal tumor materials model"
 collection: publications
 permalink: /publication/2011-07-08-Endourology_FCM+2011
-excerpt: 'In this paper, we evaluated a materials model for laparoscopic guided cryotherapy or radiofrequency tissue ablation (RFA) of kidney tumors through expert surgeon assessment.'
+excerpt: 'In this journal paper, we evaluated a materials model for laparoscopic guided cryotherapy or radiofrequency tissue ablation (RFA) of kidney tumors through expert surgeon assessment.'
 date: 2011-07-08
 venue: 'Journal of Endourology'
 paperurl: 'https://doi.org/10.1089/end.2011.0050'
