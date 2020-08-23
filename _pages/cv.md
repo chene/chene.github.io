@@ -53,8 +53,8 @@ Career Publication Totals
 ======
 
 | :---                                             |          ---: |
-| Articles in Submission in Peer Reviewed Journals |             3 |
-| Articles in Peer Reviewed Journals               |            32 |
+| Articles in Submission in Peer Reviewed Journals |             2 |
+| Articles in Peer Reviewed Journals               |            33 |
 | Articles in Peer Reviewed Conferences            |            47 |
 | Book Chapters                                    |             5 |
 | Abstracts in Conferences                         |            11 |
