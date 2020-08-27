@@ -6,7 +6,7 @@ excerpt: 'In this journal peper, we presented a method to estimate the periopera
 date: 2011-09-01
 venue: 'Innovations: Technology and Techniques in Cardiothoracic and Vascular Surgery'
 paperurl: 'https://doi.org/10.1097/imi.0b013e3182374e7e'
-citation: 'C.A. Linte et al., (2011). "Investigating perioperative heart migration during Robot-Assisted Coronary Artery Bypass Grafting interventions"; in <i>Innovations: Technology and Techniques in Cardiothoracic and Vascular Surgery</i>, 6(5), pp. 323-330.'
+citation: 'Linte CA, Cho DS, Wedlake C, Moore J, <b>Chen ECS</b>, Bainbridge D, Patel R, Peters T, Kiaii BB, (2011). "Investigating perioperative heart migration during Robot-Assisted Coronary Artery Bypass Grafting interventions"; in <i>Innovations: Technology and Techniques in Cardiothoracic and Vascular Surgery</i>, 6(5), pp. 323-330.'
 ---
 
 Objective: For robot-assisted coronary artery bypass graft interventions, surgeons typically use a preoperative thoracic computed tomography scan of the patient to plan the procedure. However, the cardiac anatomy is prone to changes induced perioperatively in the effort to access the heart and surgical targets, which, in turn, may invalidate the initial plan. This article presents a method to estimate the perioperative heart migration, information which can be further exploited to refine the preoperative surgical plan.
@@ -17,4 +17,4 @@ Results: The study suggested that the heart does undergo substantial displacemen
 
 Conclusions: The quantification of the perioperatively induced changes is critical to track the displacement of the heart and surgical targets. The recorded migration patterns should not be ignored but rather be used to update the surgical plan to better suit the intraoperative environment. 
 
-[Download paper here](https://doi.org/10.1097/imi.0b013e3182374e7e) [BibTeX](./../files/bibtex/LCW+2011.bib)
+[Download paper here](https://doi.org/10.1097/imi.0b013e3182374e7e) [BibTeX](./../files/bibtex/LCW+2011.bib) [PMID: 22436709](https://pubmed.ncbi.nlm.nih.gov/22436709/)

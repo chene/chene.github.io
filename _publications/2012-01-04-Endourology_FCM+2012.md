@@ -6,7 +6,7 @@ excerpt: 'In this journal paper, we evaluated a materials model for laparoscopic
 date: 2012-01-04
 venue: 'Journal of Endourology'
 paperurl: 'http://doi.org/10.1089/end.2011.0131'
-citation: 'A. Fernandez et al., (2012). "First Prize: A phantom model as a teaching modality for laparoscopic partial nephrectomy"; in <i>Journal of Endourology</i>, 26(1), pp. 1-5.'
+citation: 'Fernandez A, <b>Chen ECS</b>, Moore J, Cheung C, Erdeljan P, Fuller A, McDougall EM, Peters TM, Pautler SE, (2012). "First Prize: A phantom model as a teaching modality for laparoscopic partial nephrectomy"; in <i>Journal of Endourology</i>, 26(1), pp. 1-5.'
 ---
 
 Purpose: To evaluate a materials model for laparoscopic ultrasound identification and partial nephrectomy of kidney tumors.
@@ -17,4 +17,4 @@ Results: The participants were able to identify 49 tumors by LUS (98%). The mean
 
 Conclusion: We have developed a unique model that simulates small kidney tumors that can be used for training surgeons in the clinical skills of laparoscopic partial nephrectomy.
 
-[Download paper here](http://doi.org/10.1089/end.2011.0131) [BibTeX](./../files/bibtex/FCM+2012.bib)
+[Download paper here](http://doi.org/10.1089/end.2011.0131) [BibTeX](./../files/bibtex/FCM+2012.bib) [PMID: 21942798](https://pubmed.ncbi.nlm.nih.gov/21942798/)
